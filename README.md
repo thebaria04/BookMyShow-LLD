@@ -7,7 +7,6 @@ Actor:
     - Screens
     - Movies
     - shows
-    - Food order Booking
  2) Customer
     - Search
     - Book
@@ -23,7 +22,7 @@ Actor:
  Common:
     - Login system
     - Customer Care.
-    
-    
-  
-    
+
+
+
+

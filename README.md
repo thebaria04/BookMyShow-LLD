@@ -9,7 +9,7 @@ Actor:
     - Movies
     - shows
  2) Customer
-    - Search (Based on location/naem/rating)
+    - Search (Based on location/name/rating)
     - Book 
     - Select seats
     - payment
